@@ -1,0 +1,13 @@
+.form{
+  display: flex;
+  flex-wrap: wrap;
+}
+.form div{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 100%;
+}
+.form div mat-form-field{
+  flex: 1;
+}
